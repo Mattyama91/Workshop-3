@@ -2,7 +2,6 @@ package pl.coderslab.entity;
 
 import pl.coderslab.utils.DbUtil;
 import org.mindrot.jbcrypt.BCrypt;
-
 import java.sql.*;
 import java.util.Arrays;
 
